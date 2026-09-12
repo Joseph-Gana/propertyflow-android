@@ -1,0 +1,6 @@
+{
+  "name": "PropertyFlow",
+  "description": "Smart Property Management, Simplified. Manage properties, units, tenants, rent collections, and maintenance across Nigeria and international markets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
